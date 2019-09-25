@@ -11,7 +11,7 @@ var phraseListe = [
 
 var trackedUser = 'Deymysoss';
 
-bot.login('NjI1OTkyNzI4NDI5MzMwNDQy.XYnr6Q.z5jR60sBNrGbNiX7oHoFylz703I');
+bot.login('************************************');
 
 //Event lors de l'envoi d'un message
 bot.on('message',function (message) {
